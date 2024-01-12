@@ -1,4 +1,4 @@
 # demo
 this is my first git repository
 <br>
-author=Parshiv Kapoor
+author=Parshiv mabja 
